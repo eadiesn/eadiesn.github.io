@@ -25,8 +25,8 @@ baseurl: "http://eadiesn.github.io"
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/eadiest
+    desc: Tweet me.
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -39,8 +39,8 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/eadiesn
+    desc:	Fork me.
     share_url:
     share_title:
     share_link:

@@ -7,7 +7,7 @@ tags: featured
 image: /assets/article_images/2014-09-30-friends-blogging-challenge-launch/friends-blogging-challenge.jpg
 ---
 
-My name is [Sarah Eadie](http://www.twitter.com/eadiest) (I’m the one on the right), and I’m a content marketer. I write for brands and they give me money. Sometimes I manage the production of photo essays or video content for money, too.
+My name is [Sarah Eadie](http://www.twitter.com/eadiest), and I’m a content marketer. I write for brands and they give me money. Sometimes I manage the production of photo essays or video content for money, too.
 
 Yes, I’m motivated by money. I hope you are, too. If the people you’re working for are making money off of your creativity, fight and get yours.
 
@@ -58,19 +58,6 @@ This encompasses a bunch of different interests and will likely overlap a lot wi
 I’m also entranced by pop culture, fashion, Kanye West, personal finance, [YASS cat](https://vine.co/v/OzQaIO0IOiu), and the internet.
 
 One cool woman in my life once told me to “just keep blogging, even if you don’t know what your blog will ultimately be about.” So until I hit it big and can hire people to blog on my behalf and photoshop my Instagram photos, I’ll be here trying to inspire and make my friends proud.
-
-
-{% highlight js %}
-
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; 2014 &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
-
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
