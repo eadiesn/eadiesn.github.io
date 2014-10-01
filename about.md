@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About
+title: About Sarah
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I'm still working on what to say about myself, here.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+[This post](http://eadiesn.github.io/update/2014/08/29/friends-blogging-challenge-launch.html) outlines The Friends Blogging Challenge which is the premise for this blog.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm using a
+a medium inspired Jekyll blog theme. You can **download** the theme here:
+[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+![More to come.](/assets/images/happy-squirtle.gif)
