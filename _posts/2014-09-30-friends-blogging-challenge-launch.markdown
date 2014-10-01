@@ -19,7 +19,7 @@ So what’s stopped me from personal blogging in the past? Laziness.
 
 I guess [my friend Ryan](http://ryanjdonaldson.com/) was tired of succumbing to his insecure inner voices, too, because one day I got an email with a challenge. This email sparked what we’re (I’m) calling:
 
-![Sparkly The Friends Blogging Challenge](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/friends-blogging-challenge.gif)
+![So sparkle. Much challenge.](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/friends-blogging-challenge.gif)
 
 It’s been proven that doing something with a partner increases the rate that you follow-through on the stuff you say you’re going to do.
 
@@ -40,24 +40,20 @@ Three months from now we may up the ante on the challenge to compare number of v
 
 There are a couple of things that I think about pretty regularly. These are the topics you can expect to read about here:
 
-![Sparkly Identity Politics](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/identity-politics.gif)
+![It's complicated!](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/identity-politics.gif)
 
 I’m pretty sure that I’m misusing the phrase ‘identity politics’, but nothing else quite fits. To me, this includes conversations about the identities I claim, the thought processes that bring me to those conclusions, and what that means in the context of greater society. Expect feminist rants and gender confusion.
 
-![Sparkly Business Books](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/business-books.gif)
+![I read a bunch!](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/business-books.gif)
 
 John Waters once said that success means never having to work with assholes or check how much a book costs before buying it. There’s a reason that man is my hero.
 
 I read a lot and a lot of what I read is business books. Think Seth Godin and *Influence: The Psychology of Persuasion*. These books shape what I write and think about. So, if I’m feeling it, I may do semi-regular book reviews or round-up lists of my favorite reading material from a past month or something. I love books!
 
 
-![Sparkly Business Books](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/creative-process.gif)
+![How Do I Art?](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/creative-process.gif)
 
 This encompasses a bunch of different interests and will likely overlap a lot with identity. I’ll talk about the creative process of dressing yourself in a way you love (see my failed blog: The Modular Wardrobe Project), writing in a way you don’t hate, and finding inspiration wherever you go.
-
-![Sparkly Business Books](/assets/article_images/2014-09-30-friends-blogging-challenge-launch/mental-health.gif)
-
-There are already many blogs that deal so elequintly with topics of depression and other mental health issues, but there area also, like, a million diet books and that didn’t stop everyone from getting into the paleo diet.
 
 I’m also entranced by pop culture, fashion, Kanye West, personal finance, [YASS cat](https://vine.co/v/OzQaIO0IOiu), and the internet.
 
