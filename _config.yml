@@ -3,24 +3,24 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: Sarah Eadie | Writer | Inspiration | Leader
+title: Sarah Eadie
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Writer | Inspiration | Leader
 
-email: a-mail@mail.mail
+email: eadiesn@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: Sarah Eadie
+author: Sarah Eadie
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://eadiesn.github.io" # the base hostname & protocol for your site
+baseurl: "http://eadiesn.github.io"
 
 # social icons and sharing options
 social:
