@@ -9,7 +9,7 @@ image: /assets/article_images/2014-10-11-identity-work/gq-portrait.jpg
 
 I almost punched someone at a wedding once.
 
-During my time studying abroad in Kunming, China, I met a Ukrainian women at a modeling gig who offered to shoot and print me a portfolio. I never took her up on the offer, but that didn't keep me from being invitedto her wedding a month later.
+During my time studying abroad in Kunming, China, I met a Ukrainian women at a modeling gig who offered to shoot and print me a portfolio. I never took her up on the offer, but that didn't keep me from being invited to her wedding a month later.
 
 Looking back on it, I should have known that there would be oddballs in attendance. The couple was sweet, but a little off. As the night went on and people got progressively drunker, my friends and I were approached by a guy named Boris. Boris latched himself uncomfortably to my friend Rob. There he stood for several increasingly uncomfortable minutes, hanging from Rob's shoulder and staring at me.
 
@@ -26,12 +26,6 @@ The violence I've personally experienced has been minimal compared to others I k
 As I cycled through these thoughts, Boris repeated his question more forcefully, "Are you a MAN," he asked, "or a WOMAN?"
 
 My friends stood in silence waiting to hear my response. I surprised more than just myself when I said slowly, calmly, "Whatever, man. Get out of here." I didn't feel the need to respond, but I also didn't identify enough with either of those words to feel comfortable choosing one.
-
-Boris took a step forward. Releasing his hold on my friend's shoulder and gesturing at me with his half-empty beer bottle.
-
-"Because you LOOK like a man, but also like a woman. You look like a woman who wants to dress like a man and have a wife and fuck her. Like you want to dress up like a man and go out and work in the fields all day and come home and fuck your wife."
-
-At this point, everyone was visibly uncomfortable. And, like, it would take me a lot of time and energy to unpackage his statement, so I'm going to leave it alone. In that moment, too, I left it alone.
 
 While Boris was talking, another friend had stepped forward and tried to pull the guy away from me, but he was unrelenting. He needed to know "what I was", and I wasn't willing to engage. It took me several seconds after walking away to realize that my hands were balled into tight fists, shaking.
 
