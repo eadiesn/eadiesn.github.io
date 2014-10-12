@@ -41,10 +41,6 @@ Sometimes this is a good thing. I've avoided getting any regrettable tattoos, fo
 
 Despite grappling with my gender identity from a young age, I've avoided being vocal about my gender identity, exploring the use of 'they/them' pronouns, or inhabiting queer spaces because I hate offering up my budding self assurance for a call-out. This makes me feel like a coward. It keeps me from feeling self-actualized.
 
-Part of this fear stems from my current relationship. I've been in a long-term relationship with a cisgendered guy for almost 5 years now. In some ways, this feels like a dirty secret to me, one I'm loathed to reveal to queer friends for fear of being cast out of the queer kingdom for not being queer enough. I've set this really negative 'queerness threshold', stripping the term of its potential unifying power.
-
-That's why the term genderqueer feels so comfortable to me. It acknowledges my queerness without limiting sexual preference one way or another. It also helps me personally to feel more comfortable experimenting and determining my identity.
-
 ## Doing the Work
 
 This year I want to humble myself before myself. There's still (hopefully) a long way to go and a lot more to learn along the way. There's work to be done and that work is me.
