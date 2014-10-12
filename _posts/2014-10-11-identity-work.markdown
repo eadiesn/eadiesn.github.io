@@ -73,7 +73,7 @@ I hope these rules will help me sleep better, be more comfortable with myself, a
 
 ## Recommended Reading
 
-I sat and read almost all of this book Gender Failure in one sitting. It's by two gender retirees (they get into it in the book), Rae Spoon and Ivan Coyote, and it affirms and puts words to some of the nebulous thoughts I've been having.
+I sat and read almost all of this book [Gender Failure](http://www.amazon.com/Gender-Failure-Ivan-E-Coyote-ebook/dp/B00H6UZX5Y/ref=sr_1_1?ie=UTF8&qid=1413093400&sr=8-1&keywords=gender+failure) in one sitting. It's by two gender retirees (they get into it in the book), Rae Spoon and Ivan Coyote, and it affirms and puts words to some of the nebulous thoughts I've been having.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
