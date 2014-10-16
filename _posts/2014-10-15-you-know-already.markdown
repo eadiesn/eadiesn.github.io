@@ -39,7 +39,7 @@ Sometimes I don't feel like a person. I'm depressed or outraged or my stomach hu
 
 When I find myself in this situation, I try to ask myself 'why'. What would it take to feel like a person? What would it feel like to know the answer?
 
-![Relevant passage from How To Be An Adult In Relationships by David Richo](/assets/article_images/2014-10-15-you-know-already/adult-relationships.jpeg)
+![Relevant passage from How To Be An Adult In Relationships by David Richo.](/assets/article_images/2014-10-15-you-know-already/adult-relationships.jpeg)
 
 Separating myself from my situation helps me identify the problem. Sometimes I visualize myself sitting across from myself in two leather chairs on a stage working through problems like I'm at a Sarah Eadie conference for being a better Sarah Eadie.
 
