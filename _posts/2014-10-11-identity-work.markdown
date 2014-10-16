@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Identity Work
-date:   2014-08-29 14:34:25
+date:   2014-10-11 10:10:10
 categories: update
 tags: featured
 image: /assets/article_images/2014-10-11-identity-work/gq-portrait.jpg

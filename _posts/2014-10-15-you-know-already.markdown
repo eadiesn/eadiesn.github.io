@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  You Know Already
-date:   2014-08-29 14:34:25
+date:   2014-10-15 20:28:25
 categories: update
 tags: featured
 image: /assets/article_images/2014-10-15-you-know-already/shelf.jpg
