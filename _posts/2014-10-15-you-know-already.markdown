@@ -39,7 +39,7 @@ Sometimes I don't feel like a person. I'm depressed or outraged or my stomach hu
 
 When I find myself in this situation, I try to ask myself 'why'. What would it take to feel like a person? What would it feel like to know the answer?
 
-![Relevant passage from How To Be An Adult In Relationships by David Richo](/assets/article_images/2014-10-15-you-know-already/adult-relationshops.jpeg)
+![Relevant passage from How To Be An Adult In Relationships by David Richo](/assets/article_images/2014-10-15-you-know-already/adult-relationships.jpeg)
 
 Separating myself from my situation helps me identify the problem. Sometimes I visualize myself sitting across from myself in two leather chairs on a stage working through problems like I'm at a Sarah Eadie conference for being a better Sarah Eadie.
 
@@ -55,7 +55,7 @@ This is where looking at what exists already can be helpful. Once you've determi
 
 Read books and articles on creative process, communication, and success - whatever you're excited about. Tailor the parts you agree with to your situation and who you are. Edit the parts that you disagree with to reflect how *you* would go about doing things.
 
-![Unless you're this guy. If you're this guy, close your laptop, fill those pants with rocks, and start swimming.](/assets/article_images/2014-10-15-you-know-already/gq-guy.jpg)
+![Unless you're this guy. If you're this guy, close your laptop, fill your pockets with rocks, and start swimming.](/assets/article_images/2014-10-15-you-know-already/gq-guy.jpg)
 
 Sometimes this is really scary. You're challenging people who are already accomplished than you, they may even be your idols. But I think one of the most powerful things you can do, if you're willing and able, is to be visible. If you're talking about what matters to you in a direct and piercing way, people will find you.
 
