@@ -21,15 +21,15 @@ No one is self made. We all have champions.
 
 ## Identifying a Champion
 
-Champions genuinely like and care about you. Mentors that are disdainful of you aren't good mentors and should be politely discarded. Life is too short.
+1. Champions genuinely like and care about you. Mentors that are disdainful of you aren't good mentors and should be politely discarded. Life is too short.
 
-Champions respect you enough to be real with you. "Like and care about" doesn't equal "Coddle and sugar-coat reality for". Some of the most uncomfortable conversations will happen between you and your Champions. That's great because these are low-risk people to be real with. They want you to succeed.
+2. Champions respect you enough to be real with you. "Like and care about" doesn't equal "Coddle and sugar-coat reality for". Some of the most uncomfortable conversations will happen between you and your Champions. That's great because these are low-risk people to be real with. They want you to succeed.
 
-Champions have had some time to observe you. They don't have to have known you since you were a tiny baby, but having a period of regular contact or several 'life moment touch points' (god I am tired) helps foster a relationship of real understanding.
+3. Champions have had some time to observe you. They don't have to have known you since you were a tiny baby, but having a period of regular contact or several 'life moment touch points' (god I am tired) helps foster a relationship of real understanding.
 
-Champions ~*~INSPIRE U ~*~. It's cheese, but it's real cheese. A quick and dirty litmus test for determining your champions is asking yourself whose conversations make you feel like hopping up from the table and doing the hard work to become a better version of yourself.
+4. Champions ~INSPIRE U~. It's cheese, but it's real cheese. A quick and dirty litmus test for determining your champions is asking yourself whose conversations make you feel like hopping up from the table and doing the hard work to become a better version of yourself.
 
-Champions never give advice. They reframe the question in a way that helps you uncover new information.
+5. Champions never give advice. They reframe the question in a way that helps you uncover new information.
 
 ## Keeping Your Champions
 
