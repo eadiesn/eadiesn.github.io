@@ -41,7 +41,7 @@ After 6 long years, I had the pleasure of seeing my BF from high school who hang
 
 I sat down at Panera bread and drank cup after cup of coffee with a couple that put me on the right track at 13 and have continued to help me adjust my path through risky decisions and major life moments.
 
-How do I manage to surround myself with people so lovely as this? It's not easy, and frankly I'm not very good at it. Occasionally I try the following exercise.
+How do I manage to surround myself with people so lovely as this? It's not easy, and frankly I'm not very good at it. Occasionally I try the following exercise to help keep me on track.
 
 ### The Funeral 5
 
@@ -51,7 +51,7 @@ Several days after the ceremony, my partner Luke and I discussed which 5 people 
 
 The people we picked isn't the point. The point is that I had 3 people on my list that I hadn't talked to in over six months. SIX MONTHS I had gone without even an email, and here I expected them to come tearfully say some nice things about me.
 
-If, in thinking about this now, you discover that there are people on your Funeral 5 that you've neglected to contact, put a recurring calendar reminder
+If, in thinking about this now, you discover that there are people on your Funeral 5 that you've neglected to contact, put a recurring calendar reminder to spend an hour sending emails to your Champions. Just one hour every month or so is enough to remind the people who love you that you love them, and you're still doing cool stuff, and you want to check in and see how they are. I think this also, like, releases oxytocin. 
 
 ## Conclusion
 
