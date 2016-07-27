@@ -7,12 +7,6 @@ tags: featured
 image: /assets/article_images/2014-11-01-champions/old-dogg.jpg
 ---
 
-It's 1:45 am local time and I've got to crank this out. As per the Friends Blogging Challenge rules, if I don't hit 'Send' on this thing before my head hits the pillow, Ryan is going to take a 750 word dump of a slanderous guest post on this very page and I can't have that happening.
-
-So I'm going to take a deep breath, quiet my perfectionist voice, and deprive myself of the few minutes it takes to talk about...
-
-## Champions
-
 Today a person I love and respect very much looked me in the eye and said, "You know, most people who say they're self made really aren't. But you made yourself, kiddo."
 
 While I appreciated the line of conversation- the cool stuf I had been doing, how successful I am, how bright my future is -I could think of about 15 people off the top of my head who had helped me accomplish becoming independent and carving out a decent living. This *doesn't* include the countless people I'm too clueless to name, or the detractors whose doubt and ridicule have fed the fire that propels me forward.
@@ -51,11 +45,11 @@ Several days after the ceremony, my partner Luke and I discussed which 5 people 
 
 The people we picked isn't the point. The point is that I had 3 people on my list that I hadn't talked to in over six months. SIX MONTHS I had gone without even an email, and here I expected them to come tearfully say some nice things about me.
 
-If, in thinking about this now, you discover that there are people on your Funeral 5 that you've neglected to contact, put a recurring calendar reminder to spend an hour sending emails to your Champions. Just one hour every month or so is enough to remind the people who love you that you love them, and you're still doing cool stuff, and you want to check in and see how they are. I think this also, like, releases oxytocin. 
+If, in thinking about this now, you discover that there are people on your Funeral 5 that you've neglected to contact, put a recurring calendar reminder to spend an hour sending emails to your Champions. Just one hour every month or so is enough to remind the people who love you that you love them, and you're still doing cool stuff, and you want to check in and see how they are. I think this also, like, releases oxytocin.
 
 ## Conclusion
 
-This blog post is stream-of-concious shitty, but now I get to write 750 words about whatever I want on Ryan Donaldson's blog **and** I've written public shout outs to five people I love dearly dearly so it's not all bad.
+This blog post is stream-of-conciousness shitty, but now I get to write 750 words about whatever I want on Ryan Donaldson's blog **and** I've written public shout outs to five people I love dearly dearly so it's not all bad.
 
 (PS: RIP Grandpa. I wear your J. Crew sweater all the time.)
 
